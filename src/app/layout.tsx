@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-import '@/styles/globals.css'
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
-=======
-import '@/styles/reset.css';
+import '@/styles/globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import Header from '@/layout/header';
 import Footer from '@/layout/footer';
->>>>>>> 943e25c (FEAT: 라우팅 및 초기 설정)
 
 const inter = Inter({ subsets: ['latin'] });
 

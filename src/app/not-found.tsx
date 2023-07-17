@@ -1,7 +1,3 @@
-export default function() {
-  return (
-    <div>
-      Not found
-    </div>
-  );
+export default function NotFound() {
+  return <div>Not found</div>;
 }
