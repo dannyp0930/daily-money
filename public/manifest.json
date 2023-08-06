@@ -1,6 +1,6 @@
 {
-  "name": "S-Bank",
-  "short_name": "SB",
+  "name": "daily-money",
+  "short_name": "DM",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

@@ -41,3 +41,8 @@ next-env.d.ts
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+# service-worker
+public/sw.js
+public/sw.js.map
+public/workbox-*.js.map
